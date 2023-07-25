@@ -107,7 +107,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: 275062336513900546 # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  the best way to reach me is via e-mail
+ Best to send <a href="mailto:hayden.ruffo@gmail.com>my email</a> more than any other contact method.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -273,8 +273,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, B.]
+  last_name: [Ruffo]
+  first_name: [Hayden, B.]
 
   style: apa
   locale: en
@@ -361,10 +361,10 @@ enable_google_verification: false  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
 enable_masonry:             true   # enables automatic project cards arrangement
 enable_math:                true   # enables math typesetting (uses MathJax)
-enable_tooltips:            false  # enables automatic tooltip links generated
+enable_tooltips:            true   # enables automatic tooltip links generated
                                    # for each section titles on pages and posts
 enable_darkmode:            true   # enables switching between light/dark modes
-enable_navbar_social:       true  # enables displaying social links in the
+enable_navbar_social:       true   # enables displaying social links in the
                                    # navbar on the about page
 enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
