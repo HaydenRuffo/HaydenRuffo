@@ -16,11 +16,9 @@ A three-dimensional "Metaverse-like" from the past, available NOW in the present
  
 In DOSSIP you can be who you want to be, chat to complete strangers, roam and explore a 3D World in the most advanced graphics late 90s had to offer.
 
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g-b2TCUNsoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Originally made in roughly a month for the <a href="https://itch.io/jam/death-of-an-mmo-game-jam">Dying MMO Game Jam</a>.</p>.
+Originally made in roughly a month for the <a href="https://itch.io/jam/death-of-an-mmo-game-jam">Dying MMO Game Jam</a>.
 I was responsible for design, programming, art, animations and sounds. A friend and my twin brother both contributed sprites to the project. The character meshes and textures are from opengameart.org and some shader features like the affine mapping that you see on the characters were created by DaveFace.
 
 <iframe src="https://itch.io/embed/1391270?linkback=true&amp;border_width=0&amp;bg_color=222222&amp;fg_color=eeeeee&amp;border_color=363636" width="550" height="165" frameborder="0"><a href="https://haid.itch.io/dossip">DOSSIP.net by HAID</a></iframe>
@@ -33,7 +31,7 @@ The large amount of chat text was crowdsourced by myself and my friends, the goa
 
 There were plans to include actual online chat functionality and it is mostly working in a development build however I don't want to have to moderate or maintain such a thing so I have no plans to implement it further.
 
-<iframe src="" data-src="https://www.youtube-nocookie.com/embed/ZsWZ2fpZ20k?autoplay=0&amp;rel=0&amp;loop=0&amp;controls=1&amp;cc_load_policy=0" allowfullscreen="1"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FKT_Rjvkevs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
     ---
     To give your project a background in the portfolio page, just add the img tag to the front matter like         so:
