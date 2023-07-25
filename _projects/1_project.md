@@ -2,7 +2,7 @@
 layout: page
 title: Dossip
 description: Dossip is a social game simulator originally made in roughly a month for the Dying MMO Game Jam.
-img: assets/img/12.jpg
+img: assets/img/DossipPicture1.png
 importance: 1
 category: work
 ---
@@ -10,6 +10,8 @@ category: work
 Dossip is a social game simulator originally made in roughly a month for the Dying MMO Game Jam.
 
 I was responsible for design, programming, art, animations and sounds. A friend and my twin brother both contributed sprites to the project. The character meshes and textures are from opengameart.org and some shader features like the affine mapping that you see on the characters were created by DaveFace.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g-b2TCUNsoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
     ---
     To give your project a background in the portfolio page, just add the img tag to the front matter like         so:
