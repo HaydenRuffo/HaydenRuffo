@@ -1,17 +1,39 @@
 ---
 layout: page
-title: Dossip
-description: Dossip is a social game simulator originally made in roughly a month for the Dying MMO Game Jam.
+title: DOSSIP
+description: Offline social game simulator ala Second Life, VRChat, and Worlds.com.
 img: assets/img/DossipPicture1.png
 importance: 1
 category: work
 ---
 
-Dossip is a social game simulator originally made in roughly a month for the Dying MMO Game Jam.
+Looking to chat with some old friends, or maybe even meet some new ones? DOSSIP.net used to be the only place where you could chat to friends in stunning 3D! 
+A three-dimensional "Metaverse-like" from the past, available NOW in the present.
+* Stunning retro~ 3D graphix straight from late 80s 90s CGI.
+* A chatbox with which you can chat to other Dossip users!
+* Customize your Dossiper in cool funky fasion!.
+* ~~Online!~~ 
+ 
+In DOSSIP you can be who you want to be, chat to complete strangers, roam and explore a 3D World in the most advanced graphics late 90s had to offer.
 
-I was responsible for design, programming, art, animations and sounds. A friend and my twin brother both contributed sprites to the project. The character meshes and textures are from opengameart.org and some shader features like the affine mapping that you see on the characters were created by DaveFace.
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g-b2TCUNsoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Originally made in roughly a month for the <a href="https://itch.io/jam/death-of-an-mmo-game-jam">Dying MMO Game Jam</a>.</p>.
+I was responsible for design, programming, art, animations and sounds. A friend and my twin brother both contributed sprites to the project. The character meshes and textures are from opengameart.org and some shader features like the affine mapping that you see on the characters were created by DaveFace.
+
+<iframe src="https://itch.io/embed/1391270?linkback=true&amp;border_width=0&amp;bg_color=222222&amp;fg_color=eeeeee&amp;border_color=363636" width="550" height="165" frameborder="0"><a href="https://haid.itch.io/dossip">DOSSIP.net by HAID</a></iframe>
+
+The game was made in Unreal 4.27, and a large effort was made to reduce the graphics of the engine as much as possible so it appears to play on 90s DOS based PCs (hence the name). I'm very proud of its successes for such a small game.
+
+Some fun facts, The usernames were created by mashing together two databases. One that consisted of random online usernames scraped from various websites and another of just weird/funny words grabbed from listicals.
+
+The large amount of chat text was crowdsourced by myself and my friends, the goal was to try and be bizzare.
+
+There were plans to include actual online chat functionality and it is mostly working in a development build however I don't want to have to moderate or maintain such a thing so I have no plans to implement it further.
+
+<iframe src="" data-src="https://www.youtube-nocookie.com/embed/ZsWZ2fpZ20k?autoplay=0&amp;rel=0&amp;loop=0&amp;controls=1&amp;cc_load_policy=0" allowfullscreen="1"></iframe>
 
     ---
     To give your project a background in the portfolio page, just add the img tag to the front matter like         so:
