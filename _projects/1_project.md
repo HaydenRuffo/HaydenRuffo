@@ -1,18 +1,19 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Dossip
+description: Dossip is a social game simulator originally made in roughly a month for the Dying MMO Game Jam.
 img: assets/img/12.jpg
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Dossip is a social game simulator originally made in roughly a month for the Dying MMO Game Jam.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+I was responsible for design, programming, art, animations and sounds. A friend and my twin brother both contributed sprites to the project. The character meshes and textures are from opengameart.org and some shader features like the affine mapping that you see on the characters were created by DaveFace.
 
+    ---
+    To give your project a background in the portfolio page, just add the img tag to the front matter like         so:
+    ---
     ---
     layout: page
     title: project
