@@ -1,82 +1,82 @@
-Title: General Information
-Type: Map
-Contents:
-  - Name: Hayden Bruce Ruffo
-  - Date of Birth: 9th of April 1996
-  - Languages: English
+- title: General Information
+  type: Map
+  contents:
+    - name: Hayden Bruce Ruffo
+    - date of birth: 9th of April 1996
+    - languages: English
 
-  Title: Experience
-Type: Time Table
-Contents:
-  - Title: Environment Artist
-    Institution: Pop Family Entertainment, St Leonards NSW Sydney (Remote)
-    Year: 2022 - 2023
-    Description:
-      - Modeled film-ready 3D assets, including props, landscapes, and environments.
-      - Prepared UV layouts for surfacing.
-      
-  - Title: Programmer
-    Institution: Pop Family Entertainment, St Leonards NSW Sydney (Remote)
-    Year: 2022 - 2023
-    Description:
-      - Automated preparation of Unreal assets for use in other software packages.
-      - Developed virtual production Unreal Editor tools for use with the in-house pipeline.
+- title: Experience
+  type: Time Table
+  contents:
+    - title: Environment Artist
+      institution: Pop Family Entertainment, St Leonards NSW Sydney (Remote)
+      year: 2022 - 2023
+      description:
+        - Modeled film-ready 3D assets, including props, landscapes, and environments.
+        - Prepared UV layouts for surfacing.
 
-  - Title: Freelance 3D Artist
-    Institution: Remote work from home residence
-    Year: 2022
-    Description:
-      - Designed and modeled 3D assets for commercial game projects for independent game studios.
+    - title: Programmer
+      institution: Pop Family Entertainment, St Leonards NSW Sydney (Remote)
+      year: 2022 - 2023
+      description:
+        - Automated preparation of Unreal assets for use in other software packages.
+        - Developed virtual production Unreal Editor tools for use with the in-house pipeline.
 
-  - Title: Freelance Video Game Composer
-    Institution: Remote work from home residence
-    Year: 2019
-    Description:
-      - Composed music for commercial game projects for independent game studios.
+    - title: Freelance 3D Artist
+      institution: Remote work from home.
+      year: 2022
+      description:
+        - Designed and modeled 3D assets for commercial game projects for independent game studios.
 
-Title: Education
-Type: Time Table
-Contents:
-  - Title: Certificate IV in Information Technology (Game Development)
-    Institution: St Leonards TAFE, New South Wales, Sydney, Australia
-    Year: 2022
-    Description:
-      - Developed skills in game development, including design, modeling and programming.
-      - Introduced to cybersecurity, compliance and ethics requirements.
-      - Attended 3 months, deferred due to commitment to full-time work.
+    - title: Freelance Video Game Composer
+      institution: Remote work from home.
+      year: 2019
+      description:
+        - Composed music for commercial game projects for independent game studios.
 
-  - Title: Statement of Attainment in Game Programming
-    Institution: St Leonards TAFE, New South Wales, Sydney, Australia
-    Year: 2022
-    Description:
-      - Completed a short taster programming course with a focus on Unity.
-      - Created a small puzzle platformer as a result.
+- title: Education
+  type: Time Table
+  contents:
+    - title: Certificate IV in Information Technology (Game Development)
+      institution: St Leonards TAFE, New South Wales, Sydney, Australia
+      year: 2022
+      description:
+        - Developed skills in game development, including design, modeling, and programming.
+        - Introduced to cybersecurity, compliance, and ethics requirements.
+        - Attended 3 months, deferred due to commitment to full-time work.
 
-  - Title: Certificate III in Music Industry (Sound Production) (2020)
-    Institution: Ultimo TAFE, New South Wales, Sydney, Australia
-    Year: 2020
-    Description:
-      - Studied music industry fundamentals, including composition and production.
-      - Used a recording studio
-      - Created music using music software and hardware
-      - Practical set up of small PA systems and live sound.
-      - Work with copyright.
-      - Communicate with creatives
-      - Began pre-COVID global pandemic, transitioned to online learning during lockdown, and later resumed in-person classes.
+    - title: Statement of Attainment in Game Programming
+      institution: St Leonards TAFE, New South Wales, Sydney, Australia
+      year: 2022
+      description:
+        - Completed a short taster programming course with a focus on Unity.
+        - Created a small puzzle platformer as a result.
 
-Title: Achievements
-Type: Nested List
-Contents:
-  - Title: Galaclick
-    Items:
-      - Achieved the overall highest score in Major Jam 4, a ranked gamejam with 143 entrants.
+    - title: Certificate III in Music Industry (Sound Production) (2020)
+      institution: Ultimo TAFE, New South Wales, Sydney, Australia
+      year: 2020
+      description:
+        - Studied music industry fundamentals, including composition and production.
+        - Prepared recording studio equipment.
+        - Created music using music software and hardware.
+        - Practical set up of small PA systems and live sound.
+        - Worked with copyright and researched Australian laws.
+        - Communicate with creatives.
+        - Began pre-COVID global pandemic, transitioned to online learning during lockdown, and later resumed in-person classes.
 
-  - Title: Dossip
-    Items:
-      - Mentioned in an article on Polygon. (https://www.polygon.com/23025632/metaverse-mmo-ending)
-      - Over 400 downloads.
+- title: Achievements
+  type: Nested List
+  contents:
+    - title: Galaclick
+      items:
+        - Achieved the overall highest score in Major Jam 4, a ranked game jam with 143 entrants.
 
-  - Title: Insector
-    Items:
-      - Featured on the front page of Itch.io.
-      - Over 4,000 downloads.
+    - title: Dossip
+      items:
+        - Mentioned in an article on Polygon. (https://www.polygon.com/23025632/metaverse-mmo-ending)
+        - Over 400 downloads.
+
+    - title: Insector
+      items:
+        - Featured on the front page of Itch.io.
+        - Over 4,000 downloads.
