@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Galaclick - Game
-description: a project with no image
-img:
+title: Galaclick
+description: a game project
+img: assets/img/GalaclickPicture1.jpg
 importance: 6
 category: personal
 ---

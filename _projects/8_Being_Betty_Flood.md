@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 6
-description: 
+title: Being Betty Flood
+description: a film project
 img: assets/img/BeingBettyFloodPicture1.jpg
-importance: 4
+importance: 8
 category: profesional
 ---

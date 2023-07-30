@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Cactus - Game
-description: a project that redirects to another website
-img: assets/img/7.jpg
-importance: 4
+title: Cactus 
+description: a game project
+img: assets/img/.jpg
+importance: 3
 category: personal
 ---

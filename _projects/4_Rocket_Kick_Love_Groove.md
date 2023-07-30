@@ -1,8 +1,8 @@
 ---
 layout: page
-title: RKLG - Music
-description: Rocket Kick Love Groove
-img:
-importance: 3
+title: RKLG 
+description: a music project Rocket Kick Love Groove
+img: assets/img/rklg1.jpg
+importance: 4
 category: personal
 ---

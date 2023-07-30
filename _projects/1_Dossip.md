@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dossip
-description:a game project simulating social MMO games ala Second Life, VRChat, or Worlds.com.
+description: a game project simulating social MMO games ala Second Life, VRChat, or Worlds.com.
 img: assets/img/DossipPicture1.png
 importance: 1
 category: personal
