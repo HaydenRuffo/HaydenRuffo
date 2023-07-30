@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 6
+title: Galaclick - Game
 description: a project with no image
 img:
-importance: 4
-category: work
+importance: 6
+category: personal
 ---

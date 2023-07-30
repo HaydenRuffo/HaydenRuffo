@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 6
+title: Fire Society - Game
 description: a project with no image
 img:
-importance: 4
-category: work
+importance: 7
+category: personal
 ---
