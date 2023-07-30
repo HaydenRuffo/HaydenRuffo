@@ -1,12 +1,15 @@
 - title: General Information
-  type: Map
+  type: map
   contents:
-    - name: Hayden Bruce Ruffo
-    - date of birth: 9th of April 1996
-    - languages: English
+    - name: Full Name
+      value: Hayden Bruce Ruffo
+    - name: Date of Birth
+      value: 9th of April 1996
+    - name: Languages
+      value: English
 
 - title: Experience
-  type: Time Table
+  type: time_table
   contents:
     - title: Environment Artist
       institution: Pop Family Entertainment, St Leonards NSW Sydney (Remote)
@@ -35,7 +38,7 @@
         - Composed music for commercial game projects for independent game studios.
 
 - title: Education
-  type: Time Table
+  type: time_table
   contents:
     - title: Certificate IV in Information Technology (Game Development)
       institution: St Leonards TAFE, New South Wales, Sydney, Australia
@@ -65,7 +68,7 @@
         - Began pre-COVID global pandemic, transitioned to online learning during lockdown, and later resumed in-person classes.
 
 - title: Achievements
-  type: Nested List
+  type: nested_list
   contents:
     - title: Galaclick
       items:
