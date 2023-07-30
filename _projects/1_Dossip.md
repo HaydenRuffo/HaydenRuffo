@@ -7,7 +7,9 @@ importance: 1
 category: work
 ---
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/g-b2TCUNsoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe src="http://www.youtube-nocookie.com/embed/g-b2TCUNsoY?vq=hd1080&modestbranding=1&rel=0&color=white&controls=0&disablekb=1" width="568" height="315" title="DOSSIP.net" frameborder="0" allowfullscreen></iframe>
+
 
 "The '90s called, and they want their metaverse back!"
 
@@ -32,4 +34,5 @@ Play it on itch.io.
 <iframe src="https://itch.io/embed/1391270?linkback=true&border_width=0&bg_color=222222&fg_color=eeeeee&border_color=363636" width="550" height="165" frameborder="0"><a href="https://haid.itch.io/dossip">DOSSIP.net by HAID</a></iframe>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FKT_Rjvkevs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe src="http://www.youtube-nocookie.com/embed/FKT_Rjvkevs?vq=hd1080&modestbranding=1&rel=0&color=white&controls=0&disablekb=1" width="568" height="315" title="Indiegame Showcase: DOSSIP net - See the last minutes of a dying online game with very old graphics" frameborder="0" allowfullscreen></iframe>
