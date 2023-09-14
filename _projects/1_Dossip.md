@@ -6,7 +6,7 @@ img: assets/img/DossipPicture1.png
 importance: 1
 category: personal
 ---
-<iframe src="http://www.youtube-nocookie.com/embed/g-b2TCUNsoY?vq=&modestbranding=1&rel=0&color=white&controls=0&disablekb=1" width="568" height="315" title="DOSSIP.net" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g-b2TCUNsoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **"The '90s called, and they want their metaverse back!"**
 
@@ -17,9 +17,9 @@ Some fun facts, The usernames were created by mashing together two databases. On
 
 The large amount of chat text was crowdsourced by myself and my friends, the goal was to try and be bizzare.
 
-A [friend ](https://epicgameguy.itch.io/)and my twin [brother ](https://www.instagram.com/ombelra/ "My twin broskis instagram.")both contributed sprites to the project. The character meshes and textures are from [opengameart.org](https://opengameart.org/ "A great place for open game art.") and some shader features like the affine mapping that you see on the characters were created by [DaveFace](https://github.com/DaveFace/UnrealRetroShaders "Retro PS1 Post Processing effects.").
+A [friend ](https://epicgameguy.itch.io/)and my twin [brother ](https://www.instagram.com/ombelra/ "My twin instagram.")both contributed sprites to the project. The character meshes and textures are from [opengameart.org](https://opengameart.org/ "A great place for open game art.") and some shader features like the affine mapping that you see on the characters were created by [DaveFace](https://github.com/DaveFace/UnrealRetroShaders "Retro PS1 Post Processing effects.").
 
-"No WiFi, no problem! Have online fun, offline!"
+[An article about Dossip Rosy Joan for DreadXp Ultra-Indie Daily Dose](https://www.dreadxp.com/ultra-indie-spotlight/ultra-indie-daily-dose-meet-gamers-online-dossip-net-click-here/ "Link to Dossip article on dreadxp by Rosy Joan")
 
 There were plans to include actual online chat functionality and it is mostly working in a development build however I don't want to have to moderate or maintain such a thing so I have no plans to implement it further.
 
@@ -27,4 +27,4 @@ FInd the game here!
 
 <iframe src="https://itch.io/embed/1391270?linkback=true&border_width=0&bg_color=222222&fg_color=eeeeee&border_color=363636" width="550" height="165" frameborder="0"><a href="https://haid.itch.io/dossip">DOSSIP.net by HAID</a></iframe>
 
-<iframe src="http://www.youtube-nocookie.com/embed/FKT_Rjvkevs?vq=modestbranding=1&rel=0&color=white&controls=0&disablekb=1" width="568" height="315" title="Indiegame Showcase: DOSSIP net - See the last minutes of a dying online game with very old graphics" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FKT_Rjvkevs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

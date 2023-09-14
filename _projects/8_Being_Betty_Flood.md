@@ -6,7 +6,7 @@ img: assets/img/BeingBettyFloodPicture1.jpg
 importance: 8
 category: profesional
 ---
-Right now I'm moving things over from my previous website, I have some more things to say about this but alas this page is *unfinished.
+I have some more things to say about this but alas this page is *unfinished.*
 
 Being Betty Flood is an upcoming film from Sydney based company, Pop Family Entertainment.
 
