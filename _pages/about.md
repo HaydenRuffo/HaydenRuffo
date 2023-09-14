@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /about/
+permalink: /
 subtitle: ad meliora et ad maiora semper! (always towards better and bigger)
 
 profile:
@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Welcome to my website where you'll find ramblings about the projects I'm working on, along with an overview of my professional history.
 
-I intend to write blog posts in the future about things that may be helpful to others, but for now this website is all.......
+I intend to write blog posts in the future about things that may be helpfull to others, but for now this website is all.......
 
 ## **About me!**
 
