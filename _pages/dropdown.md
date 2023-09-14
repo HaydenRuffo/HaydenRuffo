@@ -12,7 +12,7 @@ children:
       permalink: /projects/
     - title: divider
     - title: about
-      permalink: /about/
+      permalink: /
     - title: divider
     - title: blog
       permalink: /blog/
