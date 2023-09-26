@@ -4,11 +4,10 @@ title: Toledot
 description: a game project
 img: assets/img/Toledot1.jpg
 importance: 9
-category: personal
+category: game
 ---
-I have some more things to say about this but alas this page is *unfinished*.
-
 Toledot is a puzzle & crafting game based on exploring. The player controls Ave, an innocent character who uses
+
 pieces of paper to craft tools.
 
 Find it here!

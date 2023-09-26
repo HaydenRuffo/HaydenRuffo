@@ -3,14 +3,14 @@ layout: page
 title: Digital Blur 
 description: a music project
 img: assets/img/1.jpg
-importance: 5
-category: personal
+importance: 2
+category: music
 ---
-I have some more things to say about this but alas this page is *unfinished.*
-
 Released November 9, 2019
 
 Digital Blur is my debut album that I released as my pseudonym "HAID"
+
+Electronic heat and syncopated beats with acouple of spacey tracks inbetween
 
 Find it here!
 

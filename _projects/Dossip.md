@@ -1,17 +1,17 @@
 ---
 layout: page
 title: Dossip
-description: a game project simulating social MMO games ala Second Life, VRChat, or Worlds.com.
+description: Gamejam simulating social MMO games ala Second Life, VRChat, or Worlds.com.
 img: assets/img/DossipPicture1.png
-importance: 1
-category: personal
+importance: 2
+category: game
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g-b2TCUNsoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **"The '90s called, and they want their metaverse back!"**
 
 Originally made in roughly a month for the [Dying MMO Game Jam](https://itch.io/jam/death-of-an-mmo-game-jam).
-An indulgent of my nostalgia for [early internet](https://theoldnet.com/ "The Old Internet Browser"). Dossip was made in Unreal 4.27, and a large effort was made to reduce the graphics of the engine as much as possible so it appears to play on 90s DOS based PCs (hence the name). I'm very proud of its successes for such a small game.
+An indulgent of my nostalgia for [early internet](https://theoldnet.com/ "The Old Internet Browser"). Dossip is a short game where you experience the last minuites of a dying online social game. It was made in Unreal 4.27, and a large effort was made to reduce the graphics of the engine as much as possible so it appears to play on 90s DOS based PCs (hence the name). I'm very proud of its successes for such a small game.
 
 Some fun facts, The usernames were created by mashing together two databases. One that consisted of random online usernames scraped from various websites and another of just weird/funny words grabbed from [listicals](https://en.wikipedia.org/wiki/Listicle "Wikipedia page for Listicles, weird word. ").
 

@@ -1,12 +1,14 @@
 ---
 layout: page
-title: projects
+title: Artbook
 permalink: /projects/
-description: A growing collection of my cool projects.
+description: A growing collection of my cool art projects.
 nav: true
 nav_order: 1
-display_categories: [profesional, personal]
+display_categories: [various, game, music, film]
 horizontal: false
+toc:
+  beginning: true
 ---
 <!-- pages/projects.md -->
 

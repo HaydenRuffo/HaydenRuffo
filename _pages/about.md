@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: ad meliora et ad maiora semper! (always towards better and bigger)
+subtitle: ad meliora et ad maiora semper! (always towards better and bigger things)
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
     <p>Blue Mountains, NSW 2780</p>
 
 news: false  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
