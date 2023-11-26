@@ -8,9 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >  
-    <p>Katoomba,</p>
-    <p>Blue Mountains, NSW 2780</p>
+  address: 
+    <p>Australia </p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
