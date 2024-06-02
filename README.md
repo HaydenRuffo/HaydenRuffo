@@ -1,6 +1,6 @@
-# My personal website
+# My personal page
 
-My personal website based on [al-folio](https://github.com/alshedivat/al-folio) template 
+https://www.haydenruffo.com/ is my personal website based on [al-folio](https://github.com/alshedivat/al-folio) Jekyl template 
 
 **Sound Squelchin' 🎹  
 Polygon Pushin' 🖥️  
