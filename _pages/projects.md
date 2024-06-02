@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Artbook
+title: art
 permalink: /projects/
 description: A growing collection of my cool art projects.
 nav: true
