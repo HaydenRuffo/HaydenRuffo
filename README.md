@@ -11,7 +11,7 @@ Hey, I'm Haid! I'm a 3D artist, game developer, musician, and mostly a giant ner
 ## Social Links
 
 - [Bandcamp](https://haidat.bandcamp.com/)
-- [Artstation]((https://www.artstation.com/haid))
+- [Artstation](https://www.artstation.com/haid)
 - [Twitter](https://twitter.com/HaydenRuffo)
 - [Discord](https://discord.com/users/275062336513900546)
 - [Instagram](https://www.instagram.com/haidonaid/)
