@@ -10,18 +10,18 @@ Hey, I'm Haid! I'm a 3D artist, game developer, musician, and mostly a giant ner
 
 ## Social Links
 
-### Game Development
+### 🎮 Game Development
 - [itch.io](https://haid.itch.io/)
 - [Artstation](https://www.artstation.com/haid)
 
-### Music
+### 🎵 Music
 - [Bandcamp](https://haidat.bandcamp.com/)
 
-### Social Media
+### 🗣️ Social Media
 - [Twitter](https://twitter.com/HaydenRuffo)
 - [Discord](https://discord.com/users/275062336513900546)
 
-### Video Content
+### 📹 Video Content
 - [YouTube](https://www.youtube.com/@HAID.)
 - [Twitch](https://www.twitch.tv/haidnaid)
 
