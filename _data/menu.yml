@@ -2,45 +2,25 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: welcome
+  - title: Welcome!
     entries:
-      - title: My personal page
-      - title: personal website
-        url: https://www.haydenruffo.com/
-      - title: based on <a href='https://github.com/riggraz/no-style-please'>nostyleplease</a> Jekyll template
+      - title: Hey, welcome to my <a href='https://haydenruffo.com/'>website!</a> I'm Hayden but I also go by Haid! I'm a <a href='https://www.artstation.com/haid'>artist</a>, <a href='https://github.com/HaydenRuffo'>developer</a>, <a href='https://haidat.bandcamp.com/'>musician</a>, and mostly a giant nerd. I've got a soft spot for Unreal Engine, Blender, and FL Studio. Wahoo!"
 
-  - title: Sound Squelchin' 🎹
-  - title: Polygon Pushin' 🖥️
-  - title: Professional Computer Wiz 🧙‍♂️
-
-  - title: bio
+  - title: Links
     entries:
-      - title: Hey, I'm Haid! I'm a 3D artist, game developer, musician, and mostly a giant nerd. I'm all about art. I've got a soft spot for Unreal Engine, Blender, and FL Studio. Wahoo!
-
-  - title: Social Links
-
-  - title: 🎮 Game Development
-    entries:
-      - title: itch.io
+      - title: 🎮 Games on itch.io
         url: https://haid.itch.io/
-      - title: Artstation
+      - title: 🖌️ 3D Art on Artstation
         url: https://www.artstation.com/haid
-
-  - title: 🎵 Music
-    entries:
-      - title: Bandcamp
+      - title: 🎵  Music on Bandcamp
         url: https://haidat.bandcamp.com/
-
-  - title: 🗣️ Social Media
-    entries:
-      - title: Twitter
+      - title: 🗣️  Opinions on Twitter
         url: https://twitter.com/HaydenRuffo
-      - title: Discord
+      - title: 🗣️ Chats on Discord
         url: https://discord.com/users/275062336513900546
-
-  - title: 📹 Video Content
-    entries:
-      - title: YouTube
-        url: https://www.youtube.com/@HAID.
-      - title: Twitch
+      - title: 📹 Videos on YouTube
+        url: https://www.youtube.com/@HAID
+      - title: 📹 Streams on Twitch
         url: https://www.twitch.tv/haidnaid
+
+  - title: This website is built with Jekyll based on <a href='https://github.com/riggraz/no-style-please'>nostyleplease</a>template.
