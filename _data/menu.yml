@@ -2,37 +2,45 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: welcome
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: My personal page
+      - title: personal website
+        url: https://www.haydenruffo.com/
+      - title: based on <a href='https://github.com/riggraz/no-style-please'>nostyleplease</a> Jekyll template
 
-  - title: all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
+  - title: Sound Squelchin' 🎹
+  Polygon Pushin' 🖥️
+  Professional Computer Wiz 🧙‍♂️
 
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-
-  - title: rss
-    url: feed.xml
-  
-  - title: another list
+  - title: bio
     entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
+      - title: Hey, I'm Haid! I'm a 3D artist, game developer, musician, and mostly a giant nerd. I'm all about art. I've got a soft spot for Unreal Engine, Blender, and FL Studio. Wahoo!
+
+  - title: Social Links
+
+  - title: 🎮 Game Development
     entries:
-      - title: to edit this menu, edit _data/menu.yml file
+      - title: itch.io
+        url: https://haid.itch.io/
+      - title: Artstation
+        url: https://www.artstation.com/haid
+
+  - title: 🎵 Music
+    entries:
+      - title: Bandcamp
+        url: https://haidat.bandcamp.com/
+
+  - title: 🗣️ Social Media
+    entries:
+      - title: Twitter
+        url: https://twitter.com/HaydenRuffo
+      - title: Discord
+        url: https://discord.com/users/275062336513900546
+
+  - title: 📹 Video Content
+    entries:
+      - title: YouTube
+        url: https://www.youtube.com/@HAID.
+      - title: Twitch
+        url: https://www.twitch.tv/haidnaid
