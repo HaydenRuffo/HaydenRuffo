@@ -5,7 +5,7 @@
 entries:
   - title: Welcome to my <a href='https://haydenruffo.com/'>website!</a>
     entries:
-      - title: I'm Hayden, an <a href='https://www.artstation.com/haid'>artist</a>, <a href='https://github.com/HaydenRuffo'>developer</a>, <a href='https://haidat.bandcamp.com/'>musician</a>, and mostly a giant nerd. Looking to <a href='mailto:hayden.ruffo@gmail.com'>contact me</a>? or check out <a href='/assets/cv.pdf''>my cv</a>!
+      - title: I'm Hayden, an <a href='https://www.artstation.com/haid'>artist</a>, <a href='https://github.com/HaydenRuffo'>developer</a>, <a href='https://haidat.bandcamp.com/'>musician</a>, and mostly a giant nerd. Looking to <a href='mailto:hayden.ruffo@gmail.com'>contact me</a>? or check out <a href='\assets\cv.pdf'>my cv</a>!
 
   - title: Links
     entries:
