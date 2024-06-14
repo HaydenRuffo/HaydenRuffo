@@ -2,6 +2,24 @@
 <html lang="{{ page.lang | default: "en" }}">
   {%- include head.html -%}
   <body a="{{ site.theme_config.appearance | default: "auto" }}">
+    <header>
+      <nav>
+        <ul style="list-style: none; padding: 0;">
+          {% for item in site.data.menu.entries %}
+            <li>
+              <div>{{ item.title | markdownify }}</div>
+              {% if item.entries %}
+                <ul style="list-style: none; padding: 0;">
+                  {% for sub_item in item.entries %}
+                    <li>{{ sub_item.title | markdownify }}</li>
+                  {% endfor %}
+                </ul>
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </header>
     <main class="page-content" aria-label="Content">
       <div class="w">
         {{ content }}

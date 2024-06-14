@@ -7,5 +7,7 @@ permalink: /models/
 
 <!-- Use the model-viewer element -->
 
-`<model-viewer    alt="Neil Armstrong's Spacesuit from the Smithsonian Digitization Programs Office and National Air and Space Museum"    src="/assets/models/NeilArmstrong.glb"    ar    environment-image="/assets/environments/moon_1k.hdr"    poster="/assets/models/NeilArmstrong.webp"    shadow-intensity="1"    camera-controls    touch-action="pan-y">`
-`</model-viewer>`
+<model-viewer    alt="Neil Armstrong's Spacesuit from the Smithsonian Digitization Programs Office and National Air and Space Museum"    src="/assets/models/NeilArmstrong.glb"    ar    environment-image="/assets/environments/moon_1k.hdr"    poster="/assets/models/NeilArmstrong.webp"    shadow-intensity="1"    camera-controls    touch-action="pan-y">`
+</model-viewer>
+
+<a href="javascript:history.back()" style="text-decoration: none; font-size: 1em;">⬅</a>
