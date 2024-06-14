@@ -3,7 +3,7 @@
 
 
 entries:
-  - title: Welcome to my <a href='https://haydenruffo.com/'>website!</a>
+  - title: "Welcome to my <a href='https://haydenruffo.com/'>website!</a>"
     entries:
       - title: "I'm Hayden, an <a href='https://www.artstation.com/haid'>artist</a>, <a href='https://github.com/HaydenRuffo'>developer</a>, <a href='https://haidat.bandcamp.com/'>musician</a>, and mostly a giant nerd. Looking to <a href='mailto:hayden.ruffo@gmail.com'>contact me</a>? or check out <a href='/assets/cv.pdf'>my cv</a>!"
 
@@ -14,8 +14,8 @@ entries:
       - title: "🎵 Music on <a href='https://haidat.bandcamp.com/'>Bandcamp</a>"
       - title: "🗣️ Opinions on <a href='https://twitter.com/HaydenRuffo'>Twitter</a>"
       - title: "🗣️ Chat to me on <a href='https://discord.com/users/275062336513900546'>Discord</a>"
-      - title: "📹 Videos on <a href='https://www.youtube.com/@HAID.'>YouTube</a>"
+      - title: "📹 Videos on <a href='https://www.youtube.com/@HAID'>YouTube</a>"
       - title: "📹 Streams on <a href='https://www.twitch.tv/haidnaid'>Twitch</a>"
       - title: "<a href='/models/'>3D Models</a>"
 
-  - title: "<small>This website is built with Jekyll based on <a href='https://github.com/riggraz/no-style-please'>nostyleplease</a> template.</small>"
+  - title: "<small><small>This website is built with Jekyll based on <a href='https://github.com/riggraz/no-style-please'>nostyleplease</a> template.</small></small>"
