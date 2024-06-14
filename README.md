@@ -1,7 +1,6 @@
 # My personal page
 
-https://www.haydenruffo.com/ is my personal website based on [nostyleplease](https://github.com/riggraz/no-style-please) Jekyl template 
-
+https://www.haydenruffo.com/ is my personal website
 **Sound Squelchin' 🎹  
 Polygon Pushin' 🖥️  
 Professional Computer Wiz 🧙‍♂️**
