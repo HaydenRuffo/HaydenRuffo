@@ -2,39 +2,22 @@
 layout: default
 title: "3D Models"
 permalink: /models/
+custom_js: model_viewer
 ---
 <h1>Browse My 3D Models</h1>
 
 <!-- Use the model-viewer element -->
 <model-viewer alt="Empty model" src="" ar environment-image="" poster="" shadow-intensity="1" camera-controls touch-action="pan-y">
   <div class="slider">
-      <div class="slides">
-        <button class="slide selected" onclick="switchSrc(this, 'CuttleBeast')" style="background-image: url('https://modelviewer.dev/assets/ShopifyModels/Mixer.webp');"></button>
-        <button class="slide" onclick="switchSrc(this, 'Phonecall')" style="background-image: url('https://modelviewer.dev/assets/ShopifyModels/Mixer.webp');"></button>
-        <button class="slide" onclick="switchSrc(this, 'Portfoliomonster')" style="background-image: url('https://modelviewer.dev/assets/ShopifyModels/Mixer.webp');"></button>
-        <button class="slide" onclick="switchSrc(this, 'ShotgunLowpoly')" style="background-image: url('https://modelviewer.dev/assets/ShopifyModels/Mixer.webp');"></button>
-        <button class="slide" onclick="switchSrc(this, 'Speaker1')" style="background-image: url('https://modelviewer.dev/assets/ShopifyModels/Mixer.webp');"></button>
-      </div>
+    <div class="slides">
+      <button class="slide selected" onclick="switchSrc(this, 'CuttleBeast')" style="background-image: url('https://modelviewer.dev/assets/ShopifyModels/Mixer.webp');"></button>
+      <button class="slide" onclick="switchSrc(this, 'Phonecall')" style="background-image: url('https://modelviewer.dev/assets/ShopifyModels/Mixer.webp');"></button>
+      <button class="slide" onclick="switchSrc(this, 'Portfoliomonster')" style="background-image: url('https://modelviewer.dev/assets/ShopifyModels/Mixer.webp');"></button>
+      <button class="slide" onclick="switchSrc(this, 'ShotgunLowpoly')" style="background-image: url('https://modelviewer.dev/assets/ShopifyModels/Mixer.webp');"></button>
+      <button class="slide" onclick="switchSrc(this, 'Speaker1')" style="background-image: url('https://modelviewer.dev/assets/ShopifyModels/Mixer.webp');"></button>
     </div>
-  </model-viewer>
-
-<script type="module">
-  const modelViewer = document.querySelector("model-viewer");
-
-  window.switchSrc = (element, name) => {
-    const base = "https://github.com/HaydenRuffo/Portfolio-Models/raw/main/" + name + ".gltf";
-    modelViewer.src = base;
-    modelViewer.poster = 'https://modelviewer.dev/assets/ShopifyModels/Mixer.webp';
-    const slides = document.querySelectorAll(".slide");
-    slides.forEach((element) => {element.classList.remove("selected");});
-    element.classList.add("selected");
-  };
-
-  document.querySelector(".slider").addEventListener('beforexrselect', (ev) => {
-    // Keep slider interactions from affecting the XR scene.
-    ev.preventDefault();
-  });
-</script>
+  </div>
+</model-viewer>
 
 <style>
   /* This keeps child nodes hidden while the element loads */
