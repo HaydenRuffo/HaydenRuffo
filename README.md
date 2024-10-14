@@ -1,11 +1,8 @@
 # My personal page
 
 https://www.haydenruffo.com/ is my personal website
-**Sound Squelchin' 🎹  
-Polygon Pushin' 🖥️  
-Professional Computer Wiz 🧙‍♂️**
 
-Hey, I'm Haid! I'm a 3D artist, game developer, musician, and mostly a giant nerd. I'm all about art. I've got a soft spot for Unreal Engine, Blender, and FL Studio. Wahoo!
+Modeling, game dev, music. I'm all about art. I've got a soft spot for Unreal Engine, Blender, and FL Studio. Wahoo!
 
 ## Social Links
 
