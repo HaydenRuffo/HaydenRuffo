@@ -1,8 +1,4 @@
-# My personal page
-
-https://www.haydenruffo.com/ is my personal website
-
-Modeling, game dev, music. I'm all about art. I've got a soft spot for Unreal Engine, Blender, and FL Studio. Wahoo!
+Modeling, game dev & music. I'm all about art. I've got a soft spot for Unreal Engine, Blender, and FL Studio. Wahoo!
 
 ## Social Links
 
