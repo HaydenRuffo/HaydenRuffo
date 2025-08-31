@@ -1,19 +1,19 @@
-Modeling, game dev & music. I'm all about art. I've got a soft spot for Unreal Engine, Blender, and FL Studio. Wahoo!
+Audio & Art & Dev & Design
 
-## Social Links
+## Track Me
 
-### 🎮 Game Development
+### 🎮 Games
 - [itch.io](https://haid.itch.io/)
 - [Artstation](https://www.artstation.com/haid)
 
-### 🎵 Music
+### 🎵 Tunes
 - [Bandcamp](https://haidat.bandcamp.com/)
 
-### 🗣️ Social Media
+### 🗣️ Socials
 - [Twitter](https://twitter.com/HaydenRuffo)
 - [Discord](https://discord.com/users/275062336513900546)
 
-### 📹 Video Content
+### 📹 Videos
 - [YouTube](https://www.youtube.com/@HAID.)
 - [Twitch](https://www.twitch.tv/haidnaid)
 
